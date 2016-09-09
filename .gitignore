@@ -1,0 +1,12 @@
+.DS_STORE
+*.pyc
+*.py~
+build
+dist
+MANIFEST
+*.egg-info
+db.sqlite3
+docs/_build
+docs/_static
+docs/_templates
+dist/*
