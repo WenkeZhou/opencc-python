@@ -1,7 +1,7 @@
 MANIFEST.in
+setup.cfg
 setup.py
 opencc/__init__.py
-opencc/version.py
 opencc/bin/opencc.dll
 opencc/bin/opencc.exe
 opencc/bin/opencc_dict.exe

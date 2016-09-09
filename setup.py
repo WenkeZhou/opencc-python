@@ -5,11 +5,7 @@ from setuptools import setup, find_packages
 
 extra = {}
 
-try:
-    from opencc import version
-    version = version.__version__
-except ImportError:
-    version = 'unknown'
+version = "0.1.1"
 
 try:
     file = open('README.rst', 'rt')

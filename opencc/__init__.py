@@ -2,7 +2,7 @@
 import os
 import subprocess
 
-from version import __version__
+__version__ = "0.1.1"
 
 _package_dir = os.path.abspath(os.path.dirname(__file__))
 
