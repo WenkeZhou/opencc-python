@@ -1,11 +1,8 @@
-from distribute_setup import use_setuptools
-use_setuptools()
-
 from setuptools import setup, find_packages
 
 extra = {}
 
-version = "0.1.1"
+version = "0.1.2"
 
 try:
     file = open('README.rst', 'rt')
